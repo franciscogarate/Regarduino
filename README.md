@@ -27,7 +27,7 @@ Circuit design
 Real-word:
 ----------
 - The code is designed for watering 5 sections (different allotments), 2 times every day. Nevertheless, arduino code is easy to understand/change.
-![Picture](IMG_regarduino1.jpg)
+![Picture](pictures/IMG_regarduino1.jpg)
 
 
 - Also, the box include and on/off switch (as 'brigde') for watering manually.
